@@ -12,3 +12,10 @@ Expense Tracker is an application designed to allow users to add their expenses 
 
  ## Demo 📸
 ![Demo](./Demo/Demo.gif)
+
+## Tech Stack
+- Python
+- Streamlit - Web application framework for Python
+- HTML/CSS - Custom styling and UI components
+- JavaScript (via Streamlit) - Interactive elements
+- JSON - Data storage format
