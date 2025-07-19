@@ -11,4 +11,4 @@ Expense Tracker is an application designed to allow users to add their expenses 
 - Clear All Data feature allows the system to erase the expense data based on user consent.
 
  ## Demo 📸
-![Demo](./gif/Demo.gif)
+![Demo](./Demo/Demo.gif)
