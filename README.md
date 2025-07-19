@@ -7,4 +7,7 @@ Expense Tracker is an application designed to allow users to add their expenses 
 - Visual Analytics dashboard provides category wise spending insights and daily spending trend of the users
 - The system has the feature to export the expense data in CSV format.
 - Expense Report feature provides the overall summary based on total expenses, number of transactions, average daily spending and visual analytics
-- Clear All Data feature allows the system to erase the expense data based on user consent. 
+- Clear All Data feature allows the system to erase the expense data based on user consent.
+
+ ## Demo 📸
+![Demo](./gif/demo.gif)
