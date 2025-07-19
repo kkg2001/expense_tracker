@@ -1,3 +1,4 @@
+# Expense Tracker
 Expense Tracker is an application designed to allow users to add their expenses and provides useful visual insights, trends and recommendations on their spending capacity
 
 ## Features :hammer_and_wrench:
