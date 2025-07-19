@@ -753,7 +753,6 @@ def main():
             st.session_state.tracker.expenses = []
             st.session_state.tracker.save_data()
             st.success("All data cleared!")
-            st.session_state.clear_confirm = False
             st.rerun()
 
 if __name__ == "__main__":
