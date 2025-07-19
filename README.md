@@ -1,6 +1,6 @@
 Expense Tracker is an application designed to allow users to add their expenses and provides useful visual insights, trends and recommendations on their spending capacity
 
-## :hammer_and_wrench: Features :
+## Features :hammer_and_wrench:
 - Expenses can be added either manually or can be uploaded via a CSV file
 - The system also has a auto detect feature which detects the category of the expense added.
 - A quick-add feature for adding expenses
